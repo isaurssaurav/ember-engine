@@ -18,6 +18,11 @@ This is example for routable engine of ember-engine.
 * `ember server`
 * Visit your app at http://localhost:4200.
 
+## Disadvantage
+* unit test doesnot work
+* sass complier like eye glass doesnot work
+* both consuming  app and engine must have same depedencies
+
 ## Building
 
 * `ember build`
