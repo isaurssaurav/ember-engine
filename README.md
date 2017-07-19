@@ -1,30 +1,18 @@
-# Ember-blog-engine
-
-This is a simple demo of the
-[ember-engines](https://github.com/dgeb/ember-engines) addon.
-
-`ember-blog-engine` is a simple routable engine that is dependent upon its
-parent to provide `session` and `blogData` services.
+# Ember-engine
+This is example for routable engine of ember-engine.
 
 ## Installation
 
 * `git clone` this repository
+* Go to all there folder and do
 * `npm install`
-* `bower install`
 
 ## Running
 
+* In terminal, go to ember-engine-demo
 * `ember server`
 * Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `npm test` (Runs `ember try:testall` to test your addon against multiple Ember versions)
-* `ember test`
-* `ember test --server`
 
 ## Building
 
 * `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
