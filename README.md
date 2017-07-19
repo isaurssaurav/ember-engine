@@ -9,7 +9,7 @@ This is example for routable engine of ember-engine.
 
 ## Setup
 * After linking two engines to main demo,In package json, add below in dependencies
-`"ember-engine-two": "node_modules/ember-engine-two",
+* `"ember-engine-two": "node_modules/ember-engine-two",
 "ember-engine-one": "node_modules/ember-engine-one",`
 
 ## Running
