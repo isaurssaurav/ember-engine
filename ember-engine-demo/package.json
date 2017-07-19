@@ -23,8 +23,6 @@
     "ember-cli-dependency-checker": "^1.3.0",
     "ember-cli-eslint": "^3.0.0",
     "ember-cli-htmlbars": "^1.1.1",
-    "ember-engine-two": "node_modules/ember-engine-two",
-    "ember-engine-one": "node_modules/ember-engine-one",
     "ember-cli-htmlbars-inline-precompile": "^0.4.0",
     "ember-cli-inject-live-reload": "^1.4.1",
     "ember-cli-qunit": "^4.0.0",
