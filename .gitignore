@@ -1,0 +1,44 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# compiled output
+ember-engine-demo/dist
+ember-engine-demo/tmp
+
+ember-engine-one/dist
+ember-engine-one/tmp
+
+ember-engine-two/dist
+ember-engine-two/tmp
+
+# dependencies
+ember-engine-demo/node_modules
+ember-engine-demo/bower_components
+
+ember-engine-one/node_modules
+ember-engine-one/bower_components
+
+ember-engine-two/node_modules
+ember-engine-two/bower_components
+
+# misc
+ember-engine-demo/.sass-cache
+ember-engine-demo/connect.lock
+ember-engine-demo/coverage/*
+ember-engine-demo/libpeerconnection.log
+ember-engine-demo/npm-debug.log*
+ember-engine-demo/testem.log
+
+ember-engine-one/.sass-cache
+ember-engine-one/connect.lock
+ember-engine-one/coverage/*
+ember-engine-one/libpeerconnection.log
+ember-engine-one/npm-debug.log*
+ember-engine-one/testem.log
+
+ember-engine-two/.sass-cache
+ember-engine-two/connect.lock
+ember-engine-two/coverage/*
+ember-engine-two/libpeerconnection.log
+ember-engine-two/npm-debug.log*
+ember-engine-two/testem.log
+
